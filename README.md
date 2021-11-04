@@ -1,3 +1,7 @@
+# CV Tabs
+
+Project which display experience on a digital CV with kind of tabs.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
