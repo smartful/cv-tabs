@@ -1,3 +1,42 @@
 .App {
   text-align: center;
 }
+
+.companyBtn {
+  color: #333;
+  width: 4em;
+  font-size: 1.2em;
+  padding: 0 1.2em;
+  margin-bottom: 1em;
+}
+
+.companyBtn:hover {
+  color: #2caeba;
+  border-left: 3px solid #2caeba;
+}
+
+.activeBtn {
+  color: #2caeba;
+  border-left: 3px solid #2caeba;
+}
+
+.activeBtn:hover {
+  color: #198a94;
+  border-left: 3px solid #198a94;
+}
+
+h3 {
+  background-color: #bbb;
+  color: #333;
+  border-radius: 2rem;
+  padding: 0.2rem 0.6rem;
+  width: 5.5rem;
+}
+
+h4 {
+  color: #bbb;
+}
+
+li {
+  margin-bottom: 1.25em;
+}
